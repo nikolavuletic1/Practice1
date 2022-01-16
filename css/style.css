@@ -1,0 +1,197 @@
+/* https://colorhunt.co/palette/2121213232320d737714ffec  color pallet*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.top-container {
+  background-color: #212121;
+  position: relative;
+}
+
+h1 {
+  font-size: 4.375rem;
+  color: #14FFEC;
+  margin-top: 0;
+  padding-top: 120px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #14FFEC;
+  font-weight: normal;
+}
+
+h3 {
+  color: #FFBE0F;
+  font-size: 40px;
+}
+
+hr {
+  border-style: dotted;
+  height: 1px;
+  width: 10%;
+  border-bottom: 0;
+  border-width: 10px;
+  color: #FFBE0F;
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.875rem;
+  color: #80FFDB;
+}
+
+.profile {
+  width: 50%;
+  margin: 0 auto 50px auto;
+}
+
+
+
+.neptune {
+  position: absolute;
+  top: 30px;
+  right: 350px;
+  width: 100px;
+}
+
+.galaxy-1 {
+  position: absolute;
+  left: 270px;
+  top: 320px;
+  width: 100px;
+}
+
+.stars-1-top {
+  position: absolute;
+  left: 100px;
+  top: 150px;
+  width: 100px;
+}
+
+.stars-2-top {
+  position: absolute;
+  right: 200px;
+  top: 320px;
+  width: 150px;
+}
+
+.skills {
+  margin-top: 10px;
+}
+
+.middle-container {
+  background-color: #323232;
+  padding-bottom: 100px;
+}
+
+.profile-picture {
+  width: 25%;
+  margin-top: 30px;
+}
+
+.skill-picture {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.galaxy-skill {
+  float: right;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 10px auto 50px auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #212121;
+  padding: 20px 0 20px;
+  position: relative;
+  top: 100px;
+}
+
+.btn {
+  background: #eefa4b;
+  background-image: -webkit-linear-gradient(top, #eefa4b, #ebd700);
+  background-image: -moz-linear-gradient(top, #eefa4b, #ebd700);
+  background-image: -ms-linear-gradient(top, #eefa4b, #ebd700);
+  background-image: -o-linear-gradient(top, #eefa4b, #ebd700);
+  background-image: linear-gradient(to bottom, #eefa4b, #ebd700);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 1.25rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn {
+  background: #ffdd00;
+  background-image: -webkit-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: -moz-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: -ms-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: -o-linear-gradient(top, #ffdd00, #fbb034);
+  background-image: linear-gradient(to bottom, #ffdd00, #fbb034);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: #323232;
+  font-size: 1.25rem;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 50px;
+}
+
+.btn:hover {
+  background: #f5d020;
+  background-image: -webkit-linear-gradient(top, #f5d020, #f53803);
+  background-image: -moz-linear-gradient(top, #f5d020, #f53803);
+  background-image: -ms-linear-gradient(top, #f5d020, #f53803);
+  background-image: -o-linear-gradient(top, #f5d020, #f53803);
+  background-image: linear-gradient(to bottom, #f5d020, #f53803);
+  text-decoration: none;
+  color: #252525;
+}
+
+.footer-link {
+  text-decoration: none;
+  padding: 10px;
+  color: #F3F3F3;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+a:hover {
+  color: #14FFEC;
+  ;
+}
+
+.credits {
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.free-icons {
+  color: #F3F3F3;
+}
+
+.free-icons-link {
+  color: #80FFDB
+}
+
+.free-icons-link:hover {
+  color: #ffdd00;
+}
